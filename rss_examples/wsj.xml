@@ -1,0 +1,12 @@
+<rss>
+  <channel>
+    <item>
+      <title>Test title</title>
+      <link>Test link</link>
+      <description>Test description</description>
+      <content:encoded/>
+      <pubDate>Mon, 20 May 2019 01:02:03 -0400</pubDate>
+      <guid isPermaLink="false">Test link</guid>
+    </item>
+  </channel>
+</rss>

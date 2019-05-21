@@ -1,0 +1,12 @@
+<rss>
+  <channel>
+    <item>
+      <title>Test title</title>
+      <link>Test link</link>
+      <atom:link href="Test link" rel="standout" />
+      <pubDate>Mon, 20 May 2019 01:02:03 -0400</pubDate>
+      <guid isPermaLink="false">Test link</guid>
+      <description>Test description</description>
+    </item>
+  </channel>
+</rss>

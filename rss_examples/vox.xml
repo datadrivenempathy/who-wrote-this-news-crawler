@@ -1,0 +1,13 @@
+<feed>
+  <entry>
+    <published>2019-05-20T01:02:03-04:00</published>
+    <updated>2019-05-20T01:02:03-04:00</updated>
+    <title>Test title</title>
+    <content type="html">Test description</content>
+    <link rel="alternate" type="text/html" href="Test link<"/>
+    <id>Test link</id>
+    <author>
+      <name>Test author</name>
+    </author>
+  </entry>
+</feed>

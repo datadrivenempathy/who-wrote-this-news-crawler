@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+  <channel>
+    <item>
+      <title>Test title</title>
+      <description>Test description</description>
+      <pubDate>Mon, 20 May 2019 01:02:03 -0400</pubDate>
+      <link>Test link</link>
+      <guid>Test link</guid>
+      <dc:creator>Test author</dc:creator>
+    </item>
+  </channel>
+</rss>

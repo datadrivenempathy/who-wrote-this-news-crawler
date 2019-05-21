@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+  <item>
+    <guid isPermaLink="true">Test link</guid>
+    <link>Test link</link>
+    <title>Test title</title>
+    <description>Test description</description>
+    <dc:creator>Test author</dc:creator>
+    <pubDate>Mon, 20 May 2019 01:02:03 -0400</pubDate>
+  </item>
+</channel>
