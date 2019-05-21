@@ -34,6 +34,16 @@ Please unit test and follow the [Google Python Style Guide](http://google.github
 
 <br>
 
+Related Projects
+----------------------------------------------------------------------------------------------------
+Note that this is in a series of related projects as linked:
+
+ - [who-wrote-this-training](https://github.com/datadrivenempathy/who-wrote-this-training): logic for machine learning.
+ - [who-wrote-this-server](https://github.com/datadrivenempathy/who-wrote-this-server): web application to demo the model.
+ - [who-wrote-this-news-crawler](https://github.com/datadrivenempathy/who-wrote-this-news-crawler): crawler to record RSS feeds.
+
+<br>
+
 Open Source
 ----------------------------------------------------------------------------------------------------
 This application's source is released under the [MIT License](https://opensource.org/licenses/MIT). The following open source libraries are used internally:
