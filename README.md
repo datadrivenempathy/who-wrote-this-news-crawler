@@ -1,6 +1,6 @@
 Who Wrote This News Crawler
 ====================================================================================================
-Web crawler for news articles from a subset of sources.
+Web crawler for news articles from a subset of sources to power an open source news search engine.
 
 <br>
 
