@@ -23,7 +23,7 @@ These set of scripts are executable from the command line with `$ python news_cr
 <br>
 
 **Check robots.txt**  
-This code base itself does not check for compliance with robots.txt on the target sites. In research, compliance with robots.txt was evaluated manually. Users of this code in the future should be sure to check continued compliance before use.
+This code base itself does not check for compliance with robots.txt on the target sites. In research, compliance with robots.txt was evaluated manually. Users of this code in the future should be sure to check continued compliance before use. See [sources.py](https://github.com/datadrivenempathy/who-wrote-this-news-crawler/blob/master/sources.py) for the URLs accessed.
 
 <br>
 
