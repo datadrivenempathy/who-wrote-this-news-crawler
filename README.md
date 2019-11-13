@@ -22,6 +22,11 @@ These set of scripts are executable from the command line with `$ python news_cr
 
 <br>
 
+**Check robots.txt**  
+This code base itself does not check for compliance with robots.txt on the target sites. In research, compliance with robots.txt was evaluated manually. Users of this code in the future should be sure to check continued compliance before use.
+
+<br>
+
 Testing
 ----------------------------------------------------------------------------------------------------
 Some automated tests are available and can be run with `$ nosetests`.
